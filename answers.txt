@@ -1,3 +1,4 @@
 a. Pros of Agile development include flexibility and faster delivery. Cons include less predictable and potentially lack of documentation.
 b. Product Owner is in charge of the product vision and strategy. Scrum Master facilitates events and removes roadblocks to productivity.
 c. Sprint Planning: create a plan for the cycle and define the sprint goal. Daily Scrum (Standup): A 15-minute daily meeting for developers to discuss progress, and address any blockers to the sprint goal. Sprint Review & Retrospective: the team reviews the product increment with stakeholders and discusses process improvements for the next sprint.
+d. Epic is a large body of work that spans multiple sprints, broken down into smaller, actionable Stories (user-focused features) and Tasks (technical to-dos). Bugs are identified defects or issues.
