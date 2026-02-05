@@ -1,1 +1,2 @@
 a. Pros of Agile development include flexibility and faster delivery. Cons include less predictable and potentially lack of documentation.
+b. Product Owner is in charge of the product vision and strategy. Scrum Master facilitates events and removes roadblocks to productivity.
